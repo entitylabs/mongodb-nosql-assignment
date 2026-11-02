@@ -1,1 +1,1 @@
-# mongodb-nosql-qssignment
+# mongodb-nosql-assignment
