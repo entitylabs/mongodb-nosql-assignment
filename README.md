@@ -1,8 +1,8 @@
-# mongodb-nosql-assignment
+# Assignment 2 SQL vs NoSQL design
 
-## Setup
+## Setup instructions
 
-# Bring up docker container
+### Bring up docker container
 
 ```
 docker run -d --name mongodb -p 27017:27017 mongo:8.0
@@ -23,18 +23,17 @@ docker run -d --name mongodb -p 27017:27017 mongo:8.0
 
 In order to query a document , open mongo shell and search a dccument by id
 
-
 ```
 db["documents"].find({_id: ObjectId('6ae8942c9dc83bd3cdf6141a')})
 
 ```
 
-SQL Schema vs MongoDB collection design
+## SQL Schema vs MongoDB collections
 
-SQL Schema design 
+### SQL Schema design 
 ![RelationalDB design](https://github.com/entitylabs/mongodb-nosql-assignment/blob/main/diagrams/relational-sql-document-editor.png)
 
-MongoDB Collection design
+### MongoDB Collection design
 ![NoSQL MongodDB schema design](https://github.com/entitylabs/mongodb-nosql-assignment/blob/main/diagrams/nosql-mongodb-document-editor.png)
 
 
