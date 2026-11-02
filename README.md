@@ -15,6 +15,8 @@ MongoDB on docker with port 27017 exposed
 
 In order to query a document , open mongo shell and search a dccument by 
 
+```
 db["documents"].find({_id: ObjectId('6ae8942c9dc83bd3cdf6141a')})
+```
 
 
