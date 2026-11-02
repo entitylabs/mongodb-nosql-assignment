@@ -1,0 +1,570 @@
+[{
+  "_id": {
+    "$oid": "6ae8942c9dc83bd3cdf613fd"
+  },
+  "title": "Project Plan",
+  "createdAt": {
+    "$date": "2026-10-18T13:46:20.279Z"
+  },
+  "collaborators": [
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f5"
+      },
+      "name": "Mary Collins"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f3"
+      },
+      "name": "Elena Petrova"
+    }
+  ],
+  "edits": [
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f7"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f3"
+      },
+      "name": "Elena Petrova",
+      "text": "Share with the team.",
+      "editedAt": {
+        "$date": "2026-10-18T14:56:20.279Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f8"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Add the intro.",
+      "editedAt": {
+        "$date": "2026-10-18T16:30:20.279Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f9"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Share with the team.",
+      "editedAt": {
+        "$date": "2026-10-18T20:12:20.279Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613fa"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Add a summary.",
+      "editedAt": {
+        "$date": "2026-10-18T22:12:20.279Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613fb"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Share with the team.",
+      "editedAt": {
+        "$date": "2026-10-19T01:19:20.279Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613fc"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh",
+      "text": "Update the goals.",
+      "editedAt": {
+        "$date": "2026-10-19T03:01:20.279Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ae8942c9dc83bd3cdf61403"
+  },
+  "title": "Meeting Notes",
+  "createdAt": {
+    "$date": "2026-10-26T13:46:20.280Z"
+  },
+  "collaborators": [
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi"
+    }
+  ],
+  "edits": [
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613fe"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi",
+      "text": "Check the numbers.",
+      "editedAt": {
+        "$date": "2026-10-26T17:25:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ff"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh",
+      "text": "Review the budget.",
+      "editedAt": {
+        "$date": "2026-10-26T20:11:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61400"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh",
+      "text": "Note key risks.",
+      "editedAt": {
+        "$date": "2026-10-26T21:09:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61401"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh",
+      "text": "Review the budget.",
+      "editedAt": {
+        "$date": "2026-10-26T21:36:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61402"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f4"
+      },
+      "name": "Peter Walsh",
+      "text": "Add the intro.",
+      "editedAt": {
+        "$date": "2026-10-27T01:30:20.280Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ae8942c9dc83bd3cdf61407"
+  },
+  "title": "Budget Draft",
+  "createdAt": {
+    "$date": "2026-10-18T13:46:20.280Z"
+  },
+  "collaborators": [
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f2"
+      },
+      "name": "Noah Bennett"
+    }
+  ],
+  "edits": [
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61404"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Fix the timeline.",
+      "editedAt": {
+        "$date": "2026-10-18T16:21:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61405"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Share with the team.",
+      "editedAt": {
+        "$date": "2026-10-18T18:55:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61406"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Confirm the owners.",
+      "editedAt": {
+        "$date": "2026-10-18T20:18:20.280Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ae8942c9dc83bd3cdf6140e"
+  },
+  "title": "Research Summary",
+  "createdAt": {
+    "$date": "2026-10-23T13:46:20.280Z"
+  },
+  "collaborators": [
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen"
+    }
+  ],
+  "edits": [
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61408"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Add a summary.",
+      "editedAt": {
+        "$date": "2026-10-23T17:04:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61409"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Add references.",
+      "editedAt": {
+        "$date": "2026-10-23T18:05:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf6140a"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Update the goals.",
+      "editedAt": {
+        "$date": "2026-10-23T20:35:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf6140b"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Add next steps.",
+      "editedAt": {
+        "$date": "2026-10-23T22:39:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf6140c"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Note key risks.",
+      "editedAt": {
+        "$date": "2026-10-24T01:01:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf6140d"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Add next steps.",
+      "editedAt": {
+        "$date": "2026-10-24T03:45:20.280Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ae8942c9dc83bd3cdf61413"
+  },
+  "title": "Release Checklist",
+  "createdAt": {
+    "$date": "2026-10-14T13:46:20.280Z"
+  },
+  "collaborators": [
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f0"
+      },
+      "name": "Liam Novak"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f2"
+      },
+      "name": "Noah Bennett"
+    }
+  ],
+  "edits": [
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf6140f"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f2"
+      },
+      "name": "Noah Bennett",
+      "text": "Update the goals.",
+      "editedAt": {
+        "$date": "2026-10-14T16:44:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61410"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f2"
+      },
+      "name": "Noah Bennett",
+      "text": "Review the budget.",
+      "editedAt": {
+        "$date": "2026-10-14T20:40:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61411"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Update the goals.",
+      "editedAt": {
+        "$date": "2026-10-14T20:57:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61412"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613ef"
+      },
+      "name": "Maya Chen",
+      "text": "Add next steps.",
+      "editedAt": {
+        "$date": "2026-10-15T00:42:20.280Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ae8942c9dc83bd3cdf6141a"
+  },
+  "title": "Team Handbook",
+  "createdAt": {
+    "$date": "2026-10-06T13:46:20.280Z"
+  },
+  "collaborators": [
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi"
+    },
+    {
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer"
+    }
+  ],
+  "edits": [
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61414"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Add next steps.",
+      "editedAt": {
+        "$date": "2026-10-06T14:50:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61415"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi",
+      "text": "Add next steps.",
+      "editedAt": {
+        "$date": "2026-10-06T18:41:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61416"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi",
+      "text": "Add a summary.",
+      "editedAt": {
+        "$date": "2026-10-06T22:29:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61417"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f1"
+      },
+      "name": "Sofia Rossi",
+      "text": "Fix the timeline.",
+      "editedAt": {
+        "$date": "2026-10-07T02:17:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61418"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Check the numbers.",
+      "editedAt": {
+        "$date": "2026-10-07T03:23:20.280Z"
+      }
+    },
+    {
+      "editId": {
+        "$oid": "6ae8942c9dc83bd3cdf61419"
+      },
+      "userId": {
+        "$oid": "6ae8942c9dc83bd3cdf613f6"
+      },
+      "name": "Lucas Meyer",
+      "text": "Share with the team.",
+      "editedAt": {
+        "$date": "2026-10-07T06:56:20.280Z"
+      }
+    }
+  ]
+}]
