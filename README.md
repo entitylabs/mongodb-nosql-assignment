@@ -29,4 +29,14 @@ db["documents"].find({_id: ObjectId('6ae8942c9dc83bd3cdf6141a')})
 
 ```
 
+SQL Schema vs MongoDB collection design
+
+SQL Schema design 
+![RelationalDB design](https://github.com/entitylabs/mongodb-nosql-assignment/blob/main/diagrams/relational-sql-document-editor.png)
+
+MongoDB Collection design
+![NoSQL MongodDB schema design]([https://github.com/entitylabs/mongodb-nosql-assignment/blob/main/diagrams/nosql-mongodb-document-editor.png])
+
+
+
 
