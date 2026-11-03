@@ -12,10 +12,14 @@ docker run -d --name mongodb -p 27017:27017 mongo:8.0
 
 #### Run the setup to import data
 
->  ``` ./setup-database.sh ```
+>  ```
+   ./setup-database.sh
+   ```
 
 #### find a document
->  ``` ./find-document.sh ```
+>  ```
+   ./find-document.sh
+   ```
 
 ### Manual usage
 > 1. Create database "big-data-assignment"
@@ -28,7 +32,6 @@ In order to query a document , open mongo shell and search a dccument by id
 
 ```
 db["documents"].find({_id: ObjectId('6ae8942c9dc83bd3cdf6141a')})
-
 ```
 
 ## SQL Schema vs MongoDB collections
