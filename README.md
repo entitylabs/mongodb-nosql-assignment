@@ -11,15 +11,14 @@ docker run -d --name mongodb -p 27017:27017 mongo:8.0
 ### Scripts:
 
 #### Run the setup to import data
-
->  ```
+```
    ./setup-database.sh
-   ```
+```
 
 #### find a document
->  ```
-   ./find-document.sh
-   ```
+```
+./find-document.sh
+```
 
 ### Manual usage
 > 1. Create database "big-data-assignment"
