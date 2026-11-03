@@ -9,9 +9,12 @@ docker run -d --name mongodb -p 27017:27017 mongo:8.0
 
 ```
 ### Scripts:
+
+#### Run the setup to import data
+
 >  ``` ./setup-database.sh ```
 
-### find a documern 
+#### find a document
 >  ``` ./find-document.sh ```
 
 ### Manual usage
