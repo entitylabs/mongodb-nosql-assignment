@@ -20,7 +20,7 @@ docker run -d --name mongodb -p 27017:27017 mongo:8.0
 ./find-document.sh
 ```
 
-### Manual usage
+### Manual usage (via Compass)
 > 1. Create database "big-data-assignment"
 > 2. Create a collection documents
 > 3. Import "big-data-assignment.documents.json" file by clicking "add data"
